@@ -21,3 +21,23 @@ The following custom objects were set up in salesforce. The entity relationship 
 
 ## Data Movement (ETL)
 An ETL process was developed in Python and was used to load each table in Salesforce from an MySQL database on AWS.
+
+## Salesforce visuals
+
+## 1. Student table
+![Student](Images/student.PNG)
+
+## 2. Course table
+![course](Images/Courses.PNG)
+
+## 3. Class table
+![class](Images/Classes.PNG)
+
+## 4. Class Participant junction table
+![classparticipant](Images/classparticipants.PNG)
+
+## 5. Staff table
+![staff](Images/staff.PNG)
+
+## 6. Staff Assignment table
+![staff](Images/staffassignment.PNG)
